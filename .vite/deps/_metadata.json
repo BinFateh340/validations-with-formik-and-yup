@@ -1,0 +1,40 @@
+{
+  "hash": "0cb36e0b",
+  "configHash": "b262f2da",
+  "lockfileHash": "f6ecad98",
+  "browserHash": "575124fc",
+  "optimized": {
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "bf415101",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "cfccdd9a",
+      "needsInterop": true
+    },
+    "formik": {
+      "src": "../../node_modules/formik/dist/formik.esm.js",
+      "file": "formik.js",
+      "fileHash": "de942ff2",
+      "needsInterop": false
+    },
+    "yup": {
+      "src": "../../node_modules/yup/index.esm.js",
+      "file": "yup.js",
+      "fileHash": "5843ca1c",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-NVAVHLZZ": {
+      "file": "chunk-NVAVHLZZ.js"
+    },
+    "chunk-5WRI5ZAA": {
+      "file": "chunk-5WRI5ZAA.js"
+    }
+  }
+}
